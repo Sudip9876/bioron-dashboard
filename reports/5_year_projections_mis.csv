@@ -1,0 +1,6 @@
+id,fiscal_year,month_year,is_projection,production_sqft,sales_volume_sqft,selling_price_per_sqft,revenue_lakh,cogs_lakh,gross_profit_lakh,fixed_operating_costs_lakh,ebitda_lakh,ebitda_margin_pct,depreciation_lakh,interest_expense_lakh,profit_before_tax_lakh,tax_lakh,profit_after_tax_lakh,cash_available_debt_service_lakh,total_debt_service_lakh,dscr_ratio,created_at
+1,FY 2026-27 (Ramp),Nov 2026 - Mar 2027 (Ramp Cumulative),1,210000.0,147000.0,23.0,33.81,22.05,11.76,8.5,3.26,9.64,2.89,7.74,-7.37,0.0,-7.37,3.26,10.27,0.32,2026-11-01 19:47:08
+2,FY 2027-28,Full Year 2,1,2800000.0,1960000.0,23.0,450.8,294.0,156.8,9.35,147.45,32.71,6.65,7.3,133.5,33.6,99.9,113.85,12.74,8.94,2026-11-01 19:47:08
+3,FY 2028-29,Full Year 3,1,3360000.0,2352000.0,23.0,540.96,352.8,188.16,10.29,177.88,32.88,5.99,6.73,165.16,41.57,123.59,136.31,12.74,10.7,2026-11-01 19:47:08
+4,FY 2029-30,Full Year 4,1,4032000.0,2822400.0,23.0,649.15,423.36,225.79,11.31,214.48,33.04,5.39,6.1,202.99,51.09,151.9,163.39,12.74,12.82,2026-11-01 19:47:08
+5,FY 2030-31,Full Year 5,1,4838400.0,3386880.0,23.0,778.98,508.03,270.95,12.44,258.51,33.19,4.85,5.4,248.26,62.49,185.77,196.02,12.74,15.39,2026-11-01 19:47:08

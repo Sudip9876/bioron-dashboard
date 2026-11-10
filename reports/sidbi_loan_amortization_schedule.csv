@@ -1,0 +1,11 @@
+loan_year,calendar_period,opening_balance_lakh,interest_expense_lakh,principal_repaid_lakh,total_debt_service_lakh,closing_loan_balance_lakh,monthly_emi_lakh,status
+1,Year 1 (6 Mo Moratorium + 6 Mo EMI),77.96,7.74,2.53,10.27,75.43,1.062,Upcoming
+2,Year 2 (Full 12 Mo EMI),75.43,7.3,5.45,12.74,69.99,1.062,Upcoming
+3,Year 3 (Full 12 Mo EMI),69.99,6.73,6.02,12.74,63.97,1.062,Upcoming
+4,Year 4 (Full 12 Mo EMI),63.97,6.1,6.65,12.74,57.33,1.062,Upcoming
+5,Year 5 (Full 12 Mo EMI),57.33,5.4,7.34,12.74,49.98,1.062,Upcoming
+6,Year 6 (Full 12 Mo EMI),49.98,4.63,8.11,12.74,41.87,1.062,Upcoming
+7,Year 7 (Full 12 Mo EMI),41.87,3.78,8.96,12.74,32.91,1.062,Upcoming
+8,Year 8 (Full 12 Mo EMI),32.91,2.85,9.9,12.74,23.01,1.062,Upcoming
+9,Year 9 (Full 12 Mo EMI),23.01,1.81,10.93,12.74,12.08,1.062,Upcoming
+10,Year 10 (Full 12 Mo EMI),12.08,0.66,12.08,12.74,0.0,1.062,Upcoming

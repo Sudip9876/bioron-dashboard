@@ -1,0 +1,34 @@
+id,asset_code,asset_name,category,quantity,unit_cost_lakh,total_cost_lakh,funding_source,vendor_supplier,status,hypothecated_to,depreciation_rate_wdv,installation_target_date,maintenance_interval_days,last_serviced_date,notes
+1,MCH-01,Concrete Mixer (Main Chamber),Machinery,3,6.0,18.0,SIDBI Term Loan,Apex Heavy Engineering,Delivered,SIDBI Bank,10.0,2026-11-15,30,,Primary heavy-duty mixing chamber for polymer & aggregate homogenisation.
+2,MCH-02,Hydraulic Press Mechanism + Conveyors,Machinery,2,7.0,14.0,SIDBI Term Loan,Precision Hydraulics India,Installed,SIDBI Bank,10.0,2026-11-10,30,,High tonnage press with precision automated heating platen (<200°C).
+3,MCH-03,Mixer Secondary Chamber,Machinery,3,5.0,15.0,SIDBI Term Loan,Apex Heavy Engineering,Delivered,SIDBI Bank,10.0,2026-11-15,30,,Secondary blending & coloring compounding chamber.
+4,MCH-04,Molds (Lock & Unlock),Machinery,2,1.2,2.4,SIDBI Term Loan,Toolcraft Mold Makers,Operational,SIDBI Bank,10.0,2026-10-25,30,,Custom hardened steel molds for 300x300mm and exterior pavers.
+5,MCH-05,Containers,Auxiliary,6,0.05,0.3,SIDBI Term Loan,Standard Fabricators,Operational,SIDBI Bank,10.0,2026-10-20,30,,Material holding and batch transfer intermediate bins.
+6,MCH-06,Agricultural Shredding Module,Machinery,1,1.5,1.5,SIDBI Term Loan,Kisan Agro Engineering,Installed,SIDBI Bank,10.0,2026-11-05,30,,"High-speed rotary chopper for straw, stubble, and agro residues."
+7,MCH-07,Crusher Module,Machinery,1,2.25,2.25,SIDBI Term Loan,MinTech Heavy Jaw Crushers,Operational,SIDBI Bank,10.0,2026-10-28,30,,Size reduction for C&D mineral fractions and ceramic waste.
+8,MCH-08,Plastic Shredding Module,Machinery,1,0.75,0.75,SIDBI Term Loan,PolyRecycle Machineries,Operational,SIDBI Bank,10.0,2026-10-28,30,,Dual-shaft slow torque plastic shredder for LDPE/HDPE/MLP.
+9,MCH-09,Plastic Washing Module,Machinery,1,0.75,0.75,SIDBI Term Loan,PolyRecycle Machineries,Installed,SIDBI Bank,10.0,2026-11-08,30,,High friction washer to clean dirt and organic film from plastic.
+10,MCH-10,Drying Module,Machinery,1,0.8,0.8,SIDBI Term Loan,ThermalTech India,Installed,SIDBI Bank,10.0,2026-11-08,30,,Centrifugal spin dryer and thermal de-moisturizer.
+11,MCH-11,Sieve Sections,Machinery,1,0.4,0.4,SIDBI Term Loan,VibroScreen Solutions,Operational,SIDBI Bank,10.0,2026-10-25,30,,Vibratory particle grader for 0mm to 25mm aggregate bands.
+12,MCH-12,Container for Water Boiling,Auxiliary,1,0.5,0.5,SIDBI Term Loan,Standard Fabricators,Operational,SIDBI Bank,10.0,2026-10-25,30,,Sanitization and de-greasing chamber.
+13,MCH-13,Carriers,Auxiliary,4,0.2,0.8,SIDBI Term Loan,Local Industrial Works,Operational,SIDBI Bank,10.0,2026-10-20,30,,Material transport pallets and carriers.
+14,MCH-14,Sucker,Auxiliary,3,0.2,0.6,SIDBI Term Loan,Vacuum Equip India,Operational,SIDBI Bank,10.0,2026-10-20,30,,Pneumatic powder and flake transfer suction systems.
+15,MCH-15,Condenser / Cooling Tower,Machinery,1,0.8,0.8,SIDBI Term Loan,CoolTech Towers,Operational,SIDBI Bank,10.0,2026-10-26,30,,Closed-loop cooling water circuit for press hydraulics and mold chilling.
+16,MCH-16,Plastic Containers,Auxiliary,10,0.03,0.3,SIDBI Term Loan,PolyTanks Ltd,Operational,SIDBI Bank,10.0,2026-10-20,30,,Finished batch holding crates.
+17,MCH-17,Conveyors + Cooling Spray + Coating Segment 1st,Machinery,2,0.5,1.0,SIDBI Term Loan,Precision Hydraulics India,Installed,SIDBI Bank,10.0,2026-11-05,30,,Post-cure tile cooling conveyor with automated surface sealant spray.
+18,MCH-18,Storage Racks,Auxiliary,6,0.5,3.0,SIDBI Term Loan,Apex Storage Racks,Operational,SIDBI Bank,10.0,2026-10-22,30,,Heavy duty multi-tier curing and warehouse racking.
+19,MCH-19,Miscellaneous Machinery Spares & Tooling,Auxiliary,1,1.5,1.5,SIDBI Term Loan,Industrial Suppliers Patna,Operational,SIDBI Bank,10.0,2026-10-25,30,,"Maintenance kits, pressure sensors, thermocouples."
+20,MCH-20,Liquid Collection & Fuel Extraction Module,Machinery,1,0.75,0.75,SIDBI Term Loan,GreenEco Distillers,Installed,SIDBI Bank,10.0,2026-11-12,30,,Byproduct condensate and pyrolytic fuel recovery system.
+21,MCH-21,Within-Unit Transport Trolleys,Vehicle,2,0.5,1.0,SIDBI Term Loan,Patna Fabrication Hub,Operational,SIDBI Bank,10.0,2026-10-20,30,,Heavy manual and hydraulic pallet trolleys.
+22,MCH-22,Electric Vehicle (EV) for Local Transportation,Vehicle,1,3.0,3.0,SIDBI Term Loan,GreenLoad EV Motors,Operational,SIDBI Bank,10.0,2026-10-18,30,,Eco-friendly cargo 3-wheeler for local feedstock pickup and dispatch.
+23,INF-01,"Workshed Preparation (1,000 sq ft)",Infrastructure,1,0.8,0.8,Promoter Contribution,Civil Contractor Patna,Operational,Promoter Property,10.0,2026-10-15,30,,Enclosed manufacturing shed with concrete flooring and drainage.
+24,INF-02,"Additional Roofing Shed (2,000 sq ft)",Infrastructure,1,0.6,0.6,Promoter Contribution,Prefab Structures Bihar,Operational,Promoter Property,10.0,2026-10-20,30,,Weatherproof covered shed for raw material segregation & storage.
+25,INF-03,Land Preparation & Leveling,Infrastructure,1,0.75,0.75,Promoter Contribution,Earthmovers Naubatpur,Operational,Promoter Property,10.0,2026-10-10,30,,"Site grading, compaction and drainage channels."
+26,INF-04,Boundary Fencing & Security Gate,Infrastructure,1,0.75,0.75,Promoter Contribution,Patna Steel Fabrication,Operational,Promoter Property,10.0,2026-10-12,30,,Site perimeter boundary and secure entrance.
+27,INF-05,Electrical Connection & Sub-Station Metering,Infrastructure,1,0.3,0.3,Promoter Contribution,BSPHCL Licensed Contractor,Operational,Promoter Property,10.0,2026-10-22,30,,3-phase industrial power load installation.
+28,INF-06,"Wiring, Switchgear & Distribution Board",Infrastructure,1,0.35,0.35,Promoter Contribution,Patna Electricals,Operational,Promoter Property,10.0,2026-10-25,30,,"Industrial cabling, circuit breakers, emergency stop relays."
+29,INF-07,Machine Foundation Grouting,Infrastructure,1,0.4,0.4,Promoter Contribution,Civil Contractor Patna,Operational,Promoter Property,10.0,2026-10-24,30,,Vibration-damped machine base grouting.
+30,INF-08,Storage Tanks (Water & Chemical Additives),Infrastructure,1,0.25,0.25,Promoter Contribution,Sintex / Local Tanks,Operational,Promoter Property,10.0,2026-10-20,30,,"5,000L water storage and polymer additive tank."
+31,INF-09,"Safety Gear, PPE & Boots",Infrastructure,1,0.12,0.12,Promoter Contribution,Industrial Safety Corp,Operational,Promoter Property,10.0,2026-10-15,30,,"Helmets, heat-resistant gloves, safety boots, eye protection."
+32,INF-10,"Tools, Calibration Equipment & Process Line",Infrastructure,1,0.5,0.5,Promoter Contribution,ToolMart Instruments,Operational,Promoter Property,10.0,2026-10-25,30,,"Precision calipers, digital scales, digital temperature guns."
+33,INF-11,"Legal, Pollution Clearance & Compliance",Infrastructure,1,0.15,0.15,Promoter Contribution,Legal Advisors Patna,Operational,Promoter Property,10.0,2026-10-05,30,,"MSME, SPCB Consent, factory inspector filings."
